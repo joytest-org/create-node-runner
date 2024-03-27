@@ -1,6 +1,6 @@
 {
   "name": "@joytest/create-node-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node implementation of test runner.",
   "author": "Anio Software <info@anio.software>",
   "license": "MIT",
