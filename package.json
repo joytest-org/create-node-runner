@@ -9,8 +9,8 @@
     "url": "git+https://github.com/joytest-org/create-node-runner.git"
   },
   "exports": {
-    ".": "./build/package.mjs",
-    "./source": "./build/source.mjs",
+    ".": "./build/package.min.mjs",
+    "./source": "./build/source.min.mjs",
     "./package.json": "./package.json"
   },
   "devDependencies": {
@@ -26,6 +26,8 @@
   },
   "files": [
     "./build/package.mjs",
-    "./build/source.mjs"
+    "./build/package.min.mjs",
+    "./build/source.mjs",
+    "./build/source.min.mjs"
   ]
 }
